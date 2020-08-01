@@ -6,7 +6,7 @@
 SENSOR LAYOUT (0 = mprLower, pin 0; 23 = mprUpper, pin 11)
   13  15      18  20  22
 12  14  16  17  19  21  23
-   1   3   5   6   8  10
+   1   3       6   8  10
  0   2   4   5   7   9  11
 
 LED LAYOUT (0 = start of led strip, 23 = end of led strip)
